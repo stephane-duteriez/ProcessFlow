@@ -70,9 +70,11 @@
             background-color: #6f6f6f;
             border: 1px solid #fff;
             color: white;
+            cursor: default;
         }
         
         .btn-breadcrumb .btn.status,
         .btn-breadcrumb .btn.status:hover {
             background-color: #d96347;
+            cursor: default;
         }

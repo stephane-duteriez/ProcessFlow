@@ -11,5 +11,5 @@ I use the clientData field from the process entity to retrieve the order of the 
 :warning: This clientData field is not documented and future update of xrm may change it.
 
 ## To go further:
-It wasn’t necessary for my project to allowed the portal contact to make change of the process flow, which are made on the xrm platform. But it could be implemented using JavaScript. 
+It wasn’t necessary for my project to allow the portal contact to make change of the process flow, which are made on the xrm platform. But it could be implemented using JavaScript. 
 
